@@ -21,12 +21,12 @@ h6 {
 .topnav {
     font-size: 16px;
     border-bottom: 1px outset rgba(192, 192, 192, 0.5);
-    background: rgba(192, 192, 192, 0.9);
+    background: rgba(32, 30, 30, 1);
     box-shadow: 0px 1px rgba(0, 0, 0, 0.3);
 }
 .topnav ul.navbar-nav li a {
-background: rgba(28, 28, 28, 0.1);
-color: #000;
+background: rgba(32, 30, 30, 1);
+color: rgb(255, 255, 255);
 }
 .topnav ul.navbar-nav li a:hover,
 .topnav ul.navbar-nav li a:focus
@@ -37,7 +37,7 @@ color: #000;
 
 .topnav .navbar-brand {
   background: rgba(28, 28, 28, 0.0);
-  color: #000;
+  color: #fff;
 }
 
 .topnav .navbar-brand:hover,
@@ -45,6 +45,11 @@ color: #000;
   background: rgba(255, 255, 255, 0.5);
   color: #000;
 }
+
+.hintro{
+  color: #fff;
+}
+
 
 .lead {
     font-size: 18px;
@@ -55,7 +60,7 @@ color: #000;
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    background: url('https://40.media.tumblr.com/1b916597d3e174399cb7adadddb66ede/tumblr_nt5uk4psl31ud7rr3o1_1280.jpg') no-repeat center center fixed;
+    background: url('https://64.media.tumblr.com/4d840480a55aef55313eeacef34169f8/1ec940fe6bbd4fe8-67/s2048x3072/2f71de8a458348e4dc9b6229008423dc7f0ef81b.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
 }
@@ -143,7 +148,7 @@ hr.intro-divider {
 /*section 2*/
 .content-section-a {
     padding: 50px 0;
-    background: url('https://68.media.tumblr.com/eb2382a5a4c996cfdab27bc0d1eb51ff/tumblr_nt5umxS1FY1ud7rr3o1_540.jpg') no-repeat center center fixed;
+    background: url('https://64.media.tumblr.com/e2ff2165186660c101ce53dd747a3367/1c53b8dc39eaa29f-d0/s2048x3072/4eead720f502dfc13a989f22942b76c5b17c8a91.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
 }
@@ -154,12 +159,13 @@ hr.intro-divider {
 }
   /*self-taught*/
 .container .link {
-  color: rgb(255, 255, 255);
+  color: rgb(80, 102, 228);
   font-weight: bold;
   font-size: 22px;
 }
 .container .link-footer {
-  color: rgb(0, 0, 0);
+  color:  rgb(0, 15, 102);
+  ;
   font-weight: bold;
   font-size: 32px;
 }
@@ -203,7 +209,7 @@ h2.section-heading {
 /* Portfolio section*/
 section {
   color: black;
-  background: url('https://68.media.tumblr.com/d3fd545cd977a174beef12c1106880bf/tumblr_nt505iKkul1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+  background: url('https://live.staticflickr.com/65535/50357380303_76e7690729_m.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -331,7 +337,7 @@ section {
 
 .banner {
     padding: 100px 0;
-    background: url('https://68.media.tumblr.com/ac46aa24b44b5036e9200abb71f810d9/tumblr_nt5vzxV6Us1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+    background: url('https://64.media.tumblr.com/a5c32691b557a7f73bc76470ec86052c/48c8535aea49b536-55/s2048x3072/0923eb0e4dcaa3278eea1bbecd3dd64ce2aaf5b7.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 755px;
 }
