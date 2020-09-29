@@ -52,6 +52,7 @@ color: #000;
 
 
 .lead {
+    text-align: justify;
     font-size: 18px;
     font-weight: 400;
 }
